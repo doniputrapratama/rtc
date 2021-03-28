@@ -15,16 +15,7 @@ cara instal RTC
 4. cd Downloads/
 
 
-5. ls
+5. copy perintah dibawah kemudian enter
 
 
-6. chmod +x rtc
-
-
-7. ls
-
-
-8. copy perintah dibawah kemudian enter
-
-
-9. wget https://raw.githubusercontent.com/doni1994/rtc/main/rtc && bash rtc
+6. wget https://raw.githubusercontent.com/doni1994/rtc/main/rtc && bash rtc
